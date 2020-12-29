@@ -16,6 +16,6 @@ function ENT:Initialize()
     physObj:Wake()
 end
 
-function ENT:Use( ply )
+function ENT:Use(ply)
 
 end
