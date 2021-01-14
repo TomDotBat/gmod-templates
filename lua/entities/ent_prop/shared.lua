@@ -1,6 +1,6 @@
 
 ENT.Type = "anim"
-ENT.Base = "base_gmodentity"
+ENT.Base = "base_anim"
 
 ENT.PrintName = "Prop-Based Entity"
 ENT.Category = "Skeleton"
