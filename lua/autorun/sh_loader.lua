@@ -1,4 +1,6 @@
 
+--Credit to nosharp for making this loader (https://github.com/NoSharp)
+
 MyAddon = {}
 
 local function loadDirectory(dir)
